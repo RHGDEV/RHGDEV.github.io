@@ -15,6 +15,7 @@
 
 
 
+
 #menu-4 .mbr-brand__name {
   font-size: 16px;
 }
@@ -37,6 +38,10 @@
   font-family: 'Oswald', sans-serif;
 }
 #header3-i H3 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#header3-m H3 {
   text-align: center;
   font-family: 'Oswald', sans-serif;
 }
