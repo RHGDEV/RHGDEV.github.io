@@ -130,7 +130,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"unavaible.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>"
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"unavaible.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>"
         },
         {
           "alias": "social-feed",
@@ -442,7 +442,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"unavaible.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>"
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"unavaible.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>"
         },
         {
           "_inherit": "features1",
@@ -1383,7 +1383,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"unavaible.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>"
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"unavaible.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>"
         }
       ]
     }
