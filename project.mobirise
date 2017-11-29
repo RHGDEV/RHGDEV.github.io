@@ -255,14 +255,17 @@
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_anchor": "header3-c",
-          "title": "MODERATION - ADMIN+",
+          "title": "MODERATION",
           "_params": {
-            "showMeta": false
+            "showMeta": true
           },
-          "meta": "By John Smith posted July 30, 2015"
+          "meta": "ADMIN+"
         },
         {
           "_inherit": "features1",
@@ -608,14 +611,17 @@
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_anchor": "header3-f",
-          "title": "INFO - ALL",
+          "title": "INFO",
           "_params": {
-            "showMeta": false
+            "showMeta": true
           },
-          "meta": "By John Smith posted July 30, 2015"
+          "meta": "ALL+"
         },
         {
           "_inherit": "features1",
@@ -781,14 +787,17 @@
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_anchor": "header3-i",
-          "title": "FUN - ALL",
+          "title": "FUN",
           "_params": {
-            "showMeta": false
+            "showMeta": true
           },
-          "meta": "By John Smith posted July 30, 2015"
+          "meta": "ALL+"
         },
         {
           "_inherit": "features1",
@@ -1108,14 +1117,17 @@
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_anchor": "header3-m",
-          "title": "CREATOR - CREATOR+",
+          "title": "CREATOR",
           "_params": {
-            "showMeta": false
+            "showMeta": true
           },
-          "meta": "By John Smith posted July 30, 2015"
+          "meta": "Creator+"
         },
         {
           "_inherit": "features1",

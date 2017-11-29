@@ -29,6 +29,9 @@
   text-align: center;
   font-family: 'Oswald', sans-serif;
 }
+#header3-c P {
+  text-align: center;
+}
 #footer1-5 P {
   text-align: center;
   color: #cccccc;
@@ -37,13 +40,22 @@
   text-align: center;
   font-family: 'Oswald', sans-serif;
 }
+#header3-f P {
+  text-align: center;
+}
 #header3-i H3 {
   text-align: center;
   font-family: 'Oswald', sans-serif;
 }
+#header3-i P {
+  text-align: center;
+}
 #header3-m H3 {
   text-align: center;
   font-family: 'Oswald', sans-serif;
+}
+#header3-m P {
+  text-align: center;
 }
 #menu-6 .mbr-brand__name {
   font-size: 16px;
