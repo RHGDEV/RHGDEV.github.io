@@ -54,12 +54,24 @@
   text-align: center;
   color: #cccccc;
 }
+#msg-box2-16 .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-16 .mbr-article {
+  color: #252525;
+}
 #header3-f H3 {
   text-align: center;
   font-family: 'Oswald', sans-serif;
 }
 #header3-f P {
   text-align: center;
+}
+#msg-box2-17 .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-17 .mbr-article {
+  color: #252525;
 }
 #header3-i H3 {
   text-align: center;
@@ -68,16 +80,18 @@
 #header3-i P {
   text-align: center;
 }
+#msg-box2-18 .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-18 .mbr-article {
+  color: #252525;
+}
 #header3-m H3 {
   text-align: center;
   font-family: 'Oswald', sans-serif;
 }
 #header3-m P {
   text-align: center;
-}
-#footer1-7 P {
-  text-align: center;
-  color: #cccccc;
 }
 #menu-p .mbr-brand__name {
   font-size: 16px;
@@ -92,7 +106,26 @@
   text-align: center;
   color: #cccccc;
 }
-#footer1-14 P {
+#msg-box2-1e .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-1e .mbr-article {
+  color: #252525;
+}
+#content5-1d .mbr-header .mbr-header__text {
   text-align: center;
-  color: #cccccc;
+  color: #fff;
+}
+#content5-1d .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1d .mbr-article {
+  color: #fff;
+}
+#msg-box2-1f .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-1f .mbr-article {
+  color: #252525;
 }
