@@ -13,7 +13,12 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "siteUrl": "https://littler.tk",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -2265,7 +2270,7 @@
           },
           "title1": "YES",
           "caption1": "I want the bot right now!<br>Please give me the invite!<br>Okay after you invite it bot you will return back to this website!",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">INVITE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"unavaible.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">INVITE</a>",
           "media2": {
             "image": {
               "src": "images/responsive.png",
