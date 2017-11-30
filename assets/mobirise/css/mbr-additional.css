@@ -165,6 +165,9 @@
   color: #fff;
   text-align: center;
 }
+#pricing-table1-1n .mbr-plan__details {
+  text-align: center;
+}
 #msg-box1-1p .mbr-header .mbr-header__text {
   color: #fff;
 }
