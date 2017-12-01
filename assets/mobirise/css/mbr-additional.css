@@ -178,3 +178,52 @@
   text-align: center;
   color: #cccccc;
 }
+#menu-1r .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1r.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-1r .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box1-1w .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-1w .mbr-article {
+  color: #fff;
+}
+#msg-box3-1v .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1v .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box2-1x .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-1x .mbr-article {
+  color: #252525;
+}
+#msg-box3-1y .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1y .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box2-1z .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-1z .mbr-article {
+  color: #252525;
+}
+#msg-box3-20 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-20 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#footer1-1s P {
+  text-align: center;
+  color: #cccccc;
+}
