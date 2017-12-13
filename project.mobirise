@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Littler",
-    "currentPage": "music.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -66,7 +66,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/littler-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Little R LOGO",
@@ -824,7 +824,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/littler-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Little R LOGO",
@@ -2105,7 +2105,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/littler-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Little R LOGO",
@@ -2581,7 +2581,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/littler-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Little R LOGO",
@@ -2748,7 +2748,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/littler-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Little R LOGO",
@@ -2934,7 +2934,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/littler-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Little R LOGO",
@@ -3304,7 +3304,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/littler-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Little R LOGO",
