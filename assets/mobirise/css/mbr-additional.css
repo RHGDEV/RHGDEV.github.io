@@ -8,6 +8,12 @@
 #menu-1 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#header3-22 H3 {
+  text-align: center;
+}
+#header3-22 P {
+  text-align: center;
+}
 #footer1-3 P {
   text-align: center;
   color: #cccccc;
@@ -218,6 +224,19 @@
   text-align: center;
 }
 #footer1-1s P {
+  text-align: center;
+  color: #cccccc;
+}
+#menu-23 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-23.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-23 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-24 P {
   text-align: center;
   color: #cccccc;
 }
