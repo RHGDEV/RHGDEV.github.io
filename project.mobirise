@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Littler",
-    "currentPage": "index.html",
+    "currentPage": "invite.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -121,7 +121,7 @@
             "showMeta": true
           },
           "title": "ANNOUNCEMENT",
-          "meta": "Little R is coming very soon to be public! Please keep my twitter feed open to get notified when this happens!",
+          "meta": "Little R is now expanding to new servers! Enjoy!",
           "_tags": [
             "Theme"
           ],
@@ -2342,7 +2342,7 @@
           },
           "title": "Let me invite the bot already!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Okay, but just to tell you the administrator role is just there to search for a log-channel if there is no log channel then there will be no logs.</p><p>Admin permission is given to the people who have \"Manage Roles\" and \"View Audit Log\"!</p><p><b>PLEASE BE WARNED OF THIS!</b></p><p><b>After you invite the bot you will have to give it permission to kick and ban! This is just for safety!</b></p>",
+          "text": "<p>Admin permission is given to the people who have \"Manage Roles\" and \"View Audit Log\"!<br></p><p><b>PLEASE BE WARNED OF THIS!</b></p><p><b>After you invite the bot you will have to give it permission to kick and ban! This is just for safety!</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -2436,8 +2436,8 @@
             }
           },
           "title1": "YES",
-          "caption1": "I want the bot right now!<br>Please give me the invite!<br>Okay after you invite it bot you will return back to this website!",
-          "button1": "<a data-app-btn=\"true\" href=\"unavaible.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">INVITE</a>",
+          "caption1": "I want the bot right now!<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://discordapp.com/oauth2/authorize?client_id=360578020492312576&amp;scope=bot&amp;permissions=0\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INVITE</a>",
           "media2": {
             "image": {
               "src": "images/responsive.png",
@@ -2634,8 +2634,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "SOON - Weekend update!<br>12/1/2017 - 12/4/2017",
-          "meta": "- Data saving<br>- Admin role updates<br>- Bug fixes<br>- Simplfying web and bot status<br>- Adding loads of conmands<br>- Public release?<br><br>(Music Update)<br><br>-Simple updates, but still not released!",
+          "title": "SOON - 2nd Weekend update!<br>12/16/2017",
+          "meta": "Soo little R just got released to PUBLIC! enjoy also sorry for alittle down time, because I just changed Little R to a new hosting system and the github repository will no longer be updated.<br>You may use the github repository for anything.&nbsp;",
           "_tags": [
             "Theme"
           ],
