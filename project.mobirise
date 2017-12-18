@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Littler",
-    "currentPage": "botinvite.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 80,
     "versionPublish": "4.5.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/littler2-trans-128x128_2.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
@@ -69,9 +69,9 @@
               "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Little R LOGO",
+              "alt": "LOGO",
               "link": "index.html",
-              "title": ""
+              "title": "Little R"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -827,9 +827,9 @@
               "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Little R LOGO",
+              "alt": "LOGO",
               "link": "index.html",
-              "title": "",
+              "title": "Little R",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2108,9 +2108,9 @@
               "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Little R LOGO",
+              "alt": "LOGO",
               "link": "index.html",
-              "title": "",
+              "title": "Little R",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2584,9 +2584,9 @@
               "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Little R LOGO",
+              "alt": "LOGO",
               "link": "index.html",
-              "title": ""
+              "title": "Little R"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2751,9 +2751,9 @@
               "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Little R LOGO",
+              "alt": "LOGO",
               "link": "index.html",
-              "title": ""
+              "title": "Little R"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2937,9 +2937,9 @@
               "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Little R LOGO",
+              "alt": "LOGO",
               "link": "index.html",
-              "title": ""
+              "title": "Little R"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3307,9 +3307,9 @@
               "src": "@PROJECT_PATH@/assets/images/littler2-trans-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Little R LOGO",
+              "alt": "LOGO",
               "link": "index.html",
-              "title": ""
+              "title": "Little R"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
