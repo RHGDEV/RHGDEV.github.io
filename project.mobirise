@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Littler",
-    "currentPage": "invite.html",
+    "currentPage": "botinvite.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2186,7 +2186,7 @@
       "settings": {
         "title": "Thanks!",
         "meta_descr": "Little R - Geez Thanks!",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2217,8 +2217,8 @@
             "overlayOpacity": 0.5
           },
           "title": "Thanks!",
-          "text": "Little R was added to the guild successsfully!<br>To get started let's look at the commands!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"commands.html\" data-toolbar=\"-mbrBtnMove\">Commands</a>"
+          "text": "Little R was added to the guild successsfully!<br>To get started let's look at the commands or setup page!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"commands.html\" data-toolbar=\"-mbrBtnMove\">Commands</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"botsetup.html\" data-toolbar=\"-mbrBtnMove\">Setup</a>"
         }
       ]
     },
@@ -2226,7 +2226,7 @@
       "settings": {
         "title": "Invite",
         "meta_descr": "Little R - Let's invite this sexy bot!",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
