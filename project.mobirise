@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Littler",
-    "currentPage": "commands.html",
+    "currentPage": "help.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 84,
+    "uniqCompNum": 85,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/littler2-trans-128x128_3.png",
     "noImageResize": "",
@@ -27,7 +27,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Little R",
+        "title": "Little R - Home",
         "meta_descr": "Little R - Welcome to Little R that maybe the world's new best friend!",
         "header_custom": "",
         "footer_custom": "",
@@ -121,7 +121,7 @@
             "showMeta": true
           },
           "title": "ANNOUNCEMENT",
-          "meta": "Little R will be getting some new in the dear future! Enjoy!",
+          "meta": "Little R will be getting somthing new in the dear future! Enjoy, until then!",
           "_tags": [
             "Theme"
           ],
@@ -2547,6 +2547,53 @@
           "title": "HELP",
           "text": "Coming Soon",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Help?",
+          "text": "<p>Only thing I can tell you is to join the discord and ask!&nbsp;</p><p>Anything else go to this page! ( <a href=\"botsetup.html#header3-1u\">Website </a>)</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-2c"
         }
       ]
     },

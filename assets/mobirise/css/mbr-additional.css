@@ -126,6 +126,17 @@
   text-align: center;
   color: #cccccc;
 }
+#content5-2c .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-2c .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-2c .mbr-article {
+  color: #fff;
+}
 #msg-box2-1e .mbr-header .mbr-header__text {
   color: #252525;
 }
