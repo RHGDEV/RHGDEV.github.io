@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Littler",
-    "currentPage": "botinvite.html",
+    "currentPage": "commands.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 80,
+    "uniqCompNum": 84,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/littler2-trans-128x128_3.png",
     "noImageResize": "",
@@ -121,7 +121,7 @@
             "showMeta": true
           },
           "title": "ANNOUNCEMENT",
-          "meta": "Little R is now expanding to new servers! Enjoy!",
+          "meta": "Little R will be getting some new in the dear future! Enjoy!",
           "_tags": [
             "Theme"
           ],
@@ -313,16 +313,16 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#444444",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.8
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"invite.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>"
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b><br></b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><br><br><p><a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\"><br></a></p><a href=\"invite.html\" class=\"text-white\">Invite</a>&nbsp; &nbsp; &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a>&nbsp; &nbsp; &nbsp;<a href=\"https://discord.gg/uWjzsEY\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; &nbsp; &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>"
         },
         {
           "_inherit": "msg-box1",
@@ -874,6 +874,160 @@
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
         },
         {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 5,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<a href=\"commands.html#header3-c\">Moderation</a>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "<a href=\"commands.html#header3-f\">Info</a>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "<a href=\"commands.html#header3-i\">Fun</a>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "<a href=\"commands.html#header3-29\">18+</a>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "<a href=\"commands.html#header3-m\">Creator</a>",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-2a"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1064,16 +1218,16 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#444444",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.8
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"invite.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>"
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b><br></b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><br><br><p><a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\"><br></a></p><a href=\"invite.html\" class=\"text-white\">Invite</a>&nbsp; &nbsp; &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a>&nbsp; &nbsp; &nbsp;<a href=\"https://discord.gg/uWjzsEY\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; &nbsp; &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>"
         },
         {
           "_inherit": "features1",
@@ -1658,6 +1812,66 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Little R &nbsp;is maintained by RHG",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-28"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "18+",
+          "meta": "ALL+ (Some in only NSFW marked channels)",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-29"
+        },
+        {
           "_inherit": "features1",
           "_tags": [
             "Theme"
@@ -1727,8 +1941,8 @@
               "size": 0
             }
           },
-          "title2": "SUB",
-          "caption2": "l;sub - Subscribe / Unsubscribe from a role",
+          "title2": "R34",
+          "caption2": "l;r34 - Let's search rule34.xxx for some juicy images!",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1810,6 +2024,160 @@
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 5,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "URBAN",
+          "caption3": "l;urban - Let's look into the crazy world of urban dictionary!",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-2b"
         },
         {
           "_inherit": "msg-box1",
@@ -2138,16 +2506,16 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#444444",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.8
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"invite.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>"
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b><br></b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><br><br><p><a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\"><br></a></p><a href=\"invite.html\" class=\"text-white\">Invite</a>&nbsp; &nbsp; &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a>&nbsp; &nbsp; &nbsp;<a href=\"https://discord.gg/uWjzsEY\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; &nbsp; &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>"
         },
         {
           "_inherit": "header1",
@@ -2697,16 +3065,16 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#444444",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.8
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"invite.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>",
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b><br></b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><br><br><p><a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\"><br></a></p><a href=\"invite.html\" class=\"text-white\">Invite</a>&nbsp; &nbsp; &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a>&nbsp; &nbsp; &nbsp;<a href=\"https://discord.gg/uWjzsEY\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; &nbsp; &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>",
           "_anchor": "footer1-1h"
         }
       ]
@@ -2883,16 +3251,16 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#444444",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.8
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"invite.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>",
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b><br></b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><br><br><p><a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\"><br></a></p><a href=\"invite.html\" class=\"text-white\">Invite</a>&nbsp; &nbsp; &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a>&nbsp; &nbsp; &nbsp;<a href=\"https://discord.gg/uWjzsEY\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; &nbsp; &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>",
           "_anchor": "footer1-1m"
         }
       ]
@@ -3253,16 +3621,16 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#444444",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.8
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"invite.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>",
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b><br></b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><br><br><p><a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\"><br></a></p><a href=\"invite.html\" class=\"text-white\">Invite</a>&nbsp; &nbsp; &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a>&nbsp; &nbsp; &nbsp;<a href=\"https://discord.gg/uWjzsEY\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; &nbsp; &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>",
           "_anchor": "footer1-1s"
         }
       ]
@@ -3336,16 +3704,16 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#444444",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.8
           },
-          "text": "<p><b>Little R - Discord Bot</b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><a href=\"invite.html\" class=\"text-white\">Invite</a> &nbsp;| &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a> &nbsp;| &nbsp;<a href=\"https://discord.gg/WUTAaSW\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; | &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; | &nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>",
+          "text": "<p><b>Little R - Discord Bot</b></p><p><b><br></b></p><p><b> Little R </b>is brought to you by&nbsp;<a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\">RHG</a></p><br><br><p><a href=\"http://GitHub.com/RHGDEV\" class=\"text-white\"><br></a></p><a href=\"invite.html\" class=\"text-white\">Invite</a>&nbsp; &nbsp; &nbsp;<a href=\"https://github.com/RHGDEV/Little-r\" class=\"text-white\" target=\"_blank\">GitHub</a>&nbsp; &nbsp; &nbsp;<a href=\"https://discord.gg/uWjzsEY\" class=\"text-white\" target=\"_blank\">Discord</a>&nbsp; &nbsp; &nbsp;<a href=\"http://www.twitter.com/RHGRDev\" target=\"_blank\" class=\"text-white\">Twitter</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.patreon.com/_RHG\" target=\"_blank\" class=\"text-white\">Patreon</a>",
           "_anchor": "footer1-24"
         }
       ]
